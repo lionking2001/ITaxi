@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088317551634",
+    "firebase_url": "https://itaxi-4d526.firebaseio.com",
+    "project_id": "itaxi-4d526",
+    "storage_bucket": "itaxi-4d526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088317551634:android:579e5ae2ce2adf28",
+        "android_client_info": {
+          "package_name": "com.example.pc.itaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088317551634-62ci402flockd04iu98sgsku6ukaco8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.itaxi",
+            "certificate_hash": "55c64cab3fb127992066874bbed917c9c27df777"
+          }
+        },
+        {
+          "client_id": "1088317551634-vdvdnk4p2p5lfivqeb9q9lgsforalc4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPf9QHOGZlRotS8agAscHrGaGapCRQ5Uk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088317551634-vdvdnk4p2p5lfivqeb9q9lgsforalc4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
